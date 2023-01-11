@@ -1,12 +1,12 @@
 ### Hey, I'm Eduardo Fertig Bastos 👌
 
 <p>
-   I'm a full-stack developer, with 2 years of experience. I am currently taking the 7th degree in Information Systems at UNIDAVI.
+   I'm a full-stack developer, with 4 years of experience. I am graduted in Information Systems at UNIDAVI.
+   
 </p>
 <p>
-    I currently study and work with Node JS and React JS. I also have experience with React Native, Laravel, pure PHP and JQuery. With Database I've worked with PostgreSQL, MySQL and SQL Server.
-  <br />
-  MVC and Rest projects. RESTful API
+   Back-end: Node.js, Laravel, PHP. Front-end: React JS, JavaScript, JQuery, React Native. Databases: PostgreSQL, MySQL and SQLServer. Architecture Projects: MVC and Rest.
+  
 </p>
 
 <div>
