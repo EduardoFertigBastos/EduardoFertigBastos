@@ -5,7 +5,7 @@
    
 </p>
 <p>
-   Back-end: Node.js, Laravel, PHP. Front-end: React JS, JavaScript, JQuery, React Native. Databases: PostgreSQL, MySQL and SQLServer. Architecture Projects: MVC and Rest.
+   Back-end: Node.js, Laravel, PHP. Front-end: React JS, JavaScript, JQuery, React Native. Databases: PostgreSQL, MySQL, SQLServer, SQLite and MongoDB. Architecture Projects: MVC and Rest.
   
 </p>
 
